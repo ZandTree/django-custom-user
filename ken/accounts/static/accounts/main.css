@@ -1,0 +1,7 @@
+body {
+  background: #ebcfb8;
+  color: black;
+  margin-top: 5rem;
+  //background-image: url(../img/old_map.png);
+  /* background-image: url(/img/old_map.png); if without css folder /main.css */
+}
